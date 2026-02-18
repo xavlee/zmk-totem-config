@@ -167,7 +167,7 @@
         &kp LEFT_BRACKET  &kp N7        &kp N8        &kp N9        &kp RIGHT_BRACKET    &kp CARET  &kp AMPS      &kp PIPE            &kp SQT                &kp DQT
         &kp RA(A)         &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp MINUS            &kp EQUAL  &kp EQUAL     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RA(O)
 &trans  &kp GRAVE         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PLUS        &kp GRAVE  &kp ASTERISK  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BSLH   &trans
-                                        &BACKSPACE        &kp N0        &kp SPACE            &trans     &kp C_PP      &trans
+                                        &kp BACKSPACE     &kp N0        &kp SPACE            &trans     &kp C_PP      &trans
             >;
         };
     };
