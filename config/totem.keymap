@@ -127,7 +127,7 @@
             bindings = <
               &kp LEFT_BRACE  &kp AMPERSAND  &kp ASTERISK          &kp LEFT_PARENTHESIS   &kp RIGHT_BRACE    &sys_reset      &kp F7  &kp F8  &kp F9  &bt BT_SEL 2
               &bt BT_SEL 2    &kp DOLLAR     &kp PERCENT           &kp CARET              &kp PLUS           &bootloader     &kp F4  &kp F5  &kp F6  &bt BT_SEL 1
-&bt BT_CLR 0  &kp TILDE       &kp EXCL       &kp AT_SIGN           &kp HASH               &kp PIPE           &studio_unlock  &kp F1  &kp F2  &kp F3  &bt BT_SEL 0  &tog 1
+&bt BT_CLR  &kp TILDE       &kp EXCL       &kp AT_SIGN           &kp HASH               &kp PIPE           &studio_unlock  &kp F1  &kp F2  &kp F3  &bt BT_SEL 0  &tog 1
                                              &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDER          &trans          &trans  &trans
             >;
         };
